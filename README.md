@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Iftikhar  
 
+![Hi there](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 💻 A passionate **Software Engineering Student** at **SMKN 24 Jakarta**.  
 🚀 Currently focusing on **Web Development** using **Laravel** & **React**.  
 📱 Occasionally explore **Android Development** with **Android Studio**.  
@@ -39,6 +41,17 @@
 
 ---
 
+## 📊 My Skills  
+
+**PHP:** ████████░░░ 80%  
+**JavaScript:** ███████░░░ 70%  
+**React:** ██████░░░░ 60%  
+**Laravel:** ███████░░░ 70%  
+**C#:** ██████░░░░ 60%  
+**Go:** ██████░░░░ 60%  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -57,11 +70,19 @@
 
 ---
 
+## 📈 GitHub Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/Iftikhar21" alt="GitHub Chart"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 - 📧 **iftikharazharchaudhry@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/iftikhar-azhar-chaudhry)  
 - 📷 [Instagram](https://www.instagram.com/iftikhrzhar._)  
 - 🐙 [GitHub](https://github.com/Iftikhar21)  
+- 👀 [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iftikhar21.Iftikhar21)  
 
 ---
 
