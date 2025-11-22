@@ -58,7 +58,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- 📧 Email: **iftikharazharchaudhry@gmail.com**  
+- 📧 **iftikharazharchaudhry@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/iftikhar-azhar-chaudhry)  
 - 📷 [Instagram](https://www.instagram.com/iftikhrzhar._)  
 - 🐙 [GitHub](https://github.com/Iftikhar21)  
