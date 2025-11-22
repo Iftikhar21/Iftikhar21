@@ -39,12 +39,14 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)  
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
   <a href="https://github.com/Iftikhar21">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iftikhar21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar21&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iftikhar21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar21&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
@@ -52,14 +54,14 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar21&theme=algolia&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar21&theme=dark&no-frame=true&margin-w=5" />
 </p>
 
 ---
 
 ## 📈 GitHub Contribution Graph
 <p align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iftikhar21&theme=react-dark&hide_border=true)
+ <img src="https://activity-graph.herokuapp.com/graph?username=Iftikhar21&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
