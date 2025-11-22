@@ -66,7 +66,3 @@
 ---
 
 ⭐️ *“Talk is cheap. Show me the code.” – Linus Torvalds*  
-
-
-
-ubah lagi dong biar lebih kerennnn
