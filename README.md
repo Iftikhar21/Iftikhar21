@@ -17,12 +17,12 @@
 ## 🛠 Tech Stack  
 
 ### 🚀 Languages & Frameworks  
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) 
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=red) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin) 
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)  
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=red)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)  
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=white)  
 ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=00ADD8)
 
 ### 🗄 Databases  
