@@ -59,7 +59,7 @@
 
 ## 📈 GitHub Contribution Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/Iftikhar21" alt="GitHub Chart"/>
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iftikhar21&theme=react-dark&hide_border=true)
 </p>
 
 ---
