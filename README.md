@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Iftikhar  
 
-![Hi there](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 💻 A passionate **Software Engineering Student** at **SMKN 24 Jakarta**.  
 🚀 Currently focusing on **Web Development** using **Laravel** & **React**.  
 📱 Occasionally explore **Android Development** with **Android Studio**.  
@@ -19,12 +17,12 @@
 ## 🛠 Tech Stack  
 
 ### 🚀 Languages & Frameworks  
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)  
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=red)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)  
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) 
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=red) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin) 
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=white) 
 ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go&logoColor=00ADD8)
 
 ### 🗄 Databases  
@@ -37,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=purple)  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)  
-![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
 ---
 
@@ -45,8 +43,8 @@
 
 <p align="center">
   <a href="https://github.com/Iftikhar21">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iftikhar21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar21&layout=compact&langs_count=8&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iftikhar21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar21&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -54,24 +52,16 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar21&theme=dark&no-frame=true&margin-w=5" />
-</p>
-
----
-
-## 📈 GitHub Contribution Graph
-<p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Iftikhar21&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar21&theme=algolia&no-frame=true&margin-w=5" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me  
-- 📧 **iftikharazharchaudhry@gmail.com**  
+- 📧 Email: **iftikharazharchaudhry@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/iftikhar-azhar-chaudhry)  
 - 📷 [Instagram](https://www.instagram.com/iftikhrzhar._)  
 - 🐙 [GitHub](https://github.com/Iftikhar21)  
-- 👀 [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Iftikhar21.Iftikhar21)  
 
 ---
 
