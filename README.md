@@ -1,62 +1,71 @@
-Hi there! 👋 I'm Iftikhar Azhar Chaudhry
-💻 Software Engineering Student at SMKN 24 Jakarta
-🚀 Crafting digital experiences with Laravel & React
-📱 Exploring mobile frontiers with Android Studio
+# Hi there! 👋 I'm Iftikhar  
 
-🎯 Current Focus
-🔥 Building full-stack applications with Laravel + React ecosystem
+💻 A passionate **Software Engineering Student** at **SMKN 24 Jakarta**.  
+🚀 Currently focusing on **Web Development** using **Laravel** & **React**.  
+📱 Occasionally explore **Android Development** with **Android Studio**.  
 
-⚡ Mastering backend architecture & RESTful API design
+---
 
-🎨 Creating responsive UI/UX with modern frontend technologies
+## 🌱 About Me  
+- 🔥 Love building modern **web applications** with **Laravel + React**.  
+- ⚡ Experienced in **backend & frontend integration**.  
+- 🧩 Familiar with **desktop app development** using **C#**.  
+- 🎯 Currently sharpening skills in **full-stack web development**.  
 
-📱 Dabbling in mobile development with Kotlin
+---
 
-🛠 Tech Arsenal
-💻 Core Technologies
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white
-https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+## 🛠 Tech Stack  
 
-🗄️ Database Mastery
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+### 🚀 Languages & Frameworks  
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)  
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=red)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)  
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=purple)  
 
-⚙️ Development Toolkit
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white
-https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+### 🗄 Databases  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=gold)  
+![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=brown)  
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=blue)  
 
-📈 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Iftikhar21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=purple)  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)  
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117
+---
 
-https://github-readme-streak-stats.herokuapp.com/?user=Iftikhar21&theme=radical&hide_border=true&background=0D1117
+## 📊 GitHub Stats  
 
-</div>
-🏆 GitHub Achievements
-<div align="center">
-https://github-profile-trophy.vercel.app/?username=Iftikhar21&theme=radical&no-frame=true&row=2&column=4
+<p align="center">
+  <a href="https://github.com/Iftikhar21">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iftikhar21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikhar21&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-</div>
-📫 Let's Connect
-<div align="center">
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+---
 
-</div>
-<div align="center">
-💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
-⭐️ Thanks for visiting! Feel free to explore my repositories and get in touch!
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iftikhar21&theme=algolia&no-frame=true&margin-w=5" />
+</p>
 
-</div>
+---
+
+## 🌐 Connect with Me  
+- 📧 Email: **iftikharazharchaudhry@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/iftikhar-azhar-chaudhry)  
+- 📷 [Instagram](https://www.instagram.com/iftikhrzhar._)  
+- 🐙 [GitHub](https://github.com/Iftikhar21)  
+
+---
+
+⭐️ *“Talk is cheap. Show me the code.” – Linus Torvalds*  
+
+
+
+ubah lagi dong biar lebih kerennnn
