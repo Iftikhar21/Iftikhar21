@@ -39,19 +39,6 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)  
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
 
----
-
-## 📊 My Skills  
-
-**PHP:** ████████░░░ 80%  
-**JavaScript:** ███████░░░ 70%  
-**React:** ██████░░░░ 60%  
-**Laravel:** ███████░░░ 70%  
-**C#:** ██████░░░░ 60%  
-**Go:** ██████░░░░ 60%  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
